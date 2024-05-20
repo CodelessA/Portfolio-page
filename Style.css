@@ -156,11 +156,10 @@ h2::first-letter {
 #third-project {
   max-width: 200px;
   width: 100%;
-  max-height: 220px;
+  max-height: 180px;
   border-radius: 10%;
   margin: 5px;
   box-shadow: 2px 2px 4px 1px black;
-  object-fit: cover;
   transition: transform 0.3s ease, opacity 0.3s ease;
 }
 
